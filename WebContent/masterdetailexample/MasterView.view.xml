@@ -1,0 +1,10 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="masterdetailexample.MasterView" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page id="pgMstVw" title="Organization Tree" showNavButton="true" navButtonPress="onPageNavButtonPressOrTap">
+		<content>
+			<List id="idItemList" width="auto"/>
+
+			
+		</content>
+	</Page>
+</mvc:View>
